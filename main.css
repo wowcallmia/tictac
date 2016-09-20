@@ -1,0 +1,31 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+height:100%;
+width:100%;
+}
+
+body {
+  text-align: center;
+  height:50%;
+  width:50%;
+  border-color: : black;
+}
+table {
+  margin-top:3em;
+  border-color: black;
+  height: 100%
+
+}
+
+button {
+
+  font-size:25px;
+  min-height:120px;
+  min-width:120px;
+  border-style: solid;
+}
